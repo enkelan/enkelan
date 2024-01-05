@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**enkelan/enkelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+name: GitHub Skyline
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.skyline.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_skyline: yes
+  plugin_skyline_year: 2020
+  plugin_skyline_frames: 6
+  plugin_skyline_quality: 1
