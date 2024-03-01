@@ -13,7 +13,7 @@ Future Full-Stack Developer
 </div>
 
 <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-badge&color=f97316&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-badge&color=f97316&labelColor=171717" /> https://komarev.com/ghpvc/?username=enkelan</a>
 
 ### Socials
 
