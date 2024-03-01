@@ -7,7 +7,7 @@ Future Full-Stack Developer
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [eno\_rami@ymail.com](mailto:eno_rami@ymail.com)
 
-<p align="center"><font size: "20px">:hammer_and_wrench: Languages and Tools :</font></p>
+<p align="center"><font size: "+5">:hammer_and_wrench: Languages and Tools :</font></p>
 <div align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
