@@ -8,7 +8,7 @@ Future Full-Stack Developer
 * ✉️  You can contact me at [eno\_rami@ymail.com](mailto:eno_rami@ymail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -19,7 +19,7 @@ Future Full-Stack Developer
 <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-badge&color=f97316&labelColor=171717" /></a>
 
-<div>
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=enkelan&style=flat-square&color=orange" alt=""/>
 </div>
 
