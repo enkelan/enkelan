@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Future Full-Stack Developer
 ---------------------------
 <div align="center">
- 🌍  I'm based in Belgium
+ 🌍  I'm based in Belgium <br>
  ✉️  You can contact me at [eno\_rami@ymail.com](mailto:eno_rami@ymail.com)
 </div>
 <div align="center">
