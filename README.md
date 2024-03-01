@@ -9,7 +9,7 @@ Future Full-Stack Developer
 
 <div align="center">
 <p style="background-color: crimson; color: #f1f1f1; font-weight: bold; font-size: 30px" align="center">
-      :hammer_and_wrench: Languages and Tools
+      🛠️Languages and Tools
 </p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
