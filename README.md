@@ -15,10 +15,10 @@ Future Full-Stack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-
+<div align="center">
 <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-badge&color=f97316&labelColor=171717" /></a>
-
+</div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=enkelan&style=flat-square&color=orange" alt=""/>
 </div>
