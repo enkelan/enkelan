@@ -36,4 +36,4 @@ src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-b
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enkelan&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enkelan&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enkelan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
