@@ -3,10 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Future Full-Stack Developer
 ---------------------------
-<div align="center">
+<p align="center">
  🌍  I'm based in Belgium <br>
  ✉️  You can contact me at [eno\_rami@ymail.com](mailto:eno_rami@ymail.com)
-</div>
+</p>
 <div align="center">
 <p style="background-color: crimson; color: #f1f1f1; font-weight: bold; font-size: 30px" >
       🛠️   Currently Learning
