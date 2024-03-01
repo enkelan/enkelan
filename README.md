@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-b
 </div> <br>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=enkelan&style=flat-square&color=orange" alt=""/>
-</div>
+</div> <br>
 <div align="center">
       
 Socials <br>
