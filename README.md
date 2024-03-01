@@ -8,8 +8,8 @@ Future Full-Stack Developer
 * ✉️  You can contact me at [eno\_rami@ymail.com](mailto:eno_rami@ymail.com)
 * 🧠  I'm learning HTML, CSS, JS and more!
 
-<div>
-    <img src="giphy.gif"/>
+<div align="center">
+    <img src="giphy.gif" width="100"/>
 </div>
 
 <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"><img
