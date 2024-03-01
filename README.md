@@ -8,9 +8,8 @@ Future Full-Stack Developer
 * ✉️  You can contact me at [eno\_rami@ymail.com](mailto:eno_rami@ymail.com)
 * 🧠  I'm learning HTML, CSS, JS and more!
 
-<div id="header" align="center">
-  <img <iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="480" height="480" frameBorder="0"/>
-</div>
+<iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2">via GIPHY</a></p>
+
 <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-badge&color=f97316&labelColor=171717" /></a>
 
