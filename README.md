@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-b
 
 
 <div align="center">
-    <img src="giphy.gif" width="200"/>
+    <img src="giphy.gif" width="400"/>
 </div>
 
 <div align="center">
