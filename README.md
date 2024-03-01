@@ -9,7 +9,8 @@ Future Full-Stack Developer
 
 <div align="center">
 <p style="background-color: crimson; color: #f1f1f1; font-weight: bold; font-size: 30px" >
-      🛠️ Currently Learning >Languages and Tools
+      🛠️ Currently Learning <br>
+         Languages and Tools
 </p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
