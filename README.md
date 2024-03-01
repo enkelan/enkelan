@@ -6,7 +6,7 @@ Future Full-Stack Developer
 
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [eno\_rami@ymail.com](mailto:eno_rami@ymail.com)
-  <div align="center">
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-b
 <div>
     <img src="https://komarev.com/ghpvc/?username=enkelan&style=flat-square&color=orange" alt=""/>
 </div>
-</div>
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/enkelan-rami-ba5a31222/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
