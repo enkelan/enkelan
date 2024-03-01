@@ -5,7 +5,7 @@ Future Full-Stack Developer
 ---------------------------
 <p align="center">
  🌍  I'm based in Belgium <br>
- ✉️  You can contact me at <a href="eno_rami@ymail.com"> eno_rami@ymail.com </a>
+ ✉️  You can contact me at <a href=mailto:eno_rami@ymail.com> eno_rami@ymail.com </a>
 </p>
 <div align="center">
 <p style="background-color: crimson; color: #f1f1f1; font-weight: bold; font-size: 30px" >
