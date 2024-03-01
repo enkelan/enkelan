@@ -9,7 +9,7 @@ Future Full-Stack Developer
 * 🧠  I'm learning HTML, CSS, JS and more!
 
 <div align="center">
-    <img src="giphy.gif" width="100"/>
+    <img src="giphy.gif" width="200"/>
 </div>
 
 <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"><img
