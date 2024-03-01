@@ -8,7 +8,7 @@ Future Full-Stack Developer
 * ✉️  You can contact me at [eno\_rami@ymail.com](mailto:eno_rami@ymail.com)
 
 <div align="center">
-<p style="background-color: crimson; color: #f1f1f1; font-weight: bold; font-size: 30px" align="center">
+<p style="background-color: crimson; color: #f1f1f1; font-weight: bold; font-size: 30px" >
       🛠️Languages and Tools
 </p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
