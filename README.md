@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Belgium<br>✉️ You can contact me eno_rami@ymail.com<br>🤓 Currently BeCode Full Stack Web Developer Boot Camp<br>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+🌍 I'm based in Belgium<br>✉️ You can contact me eno_rami@ymail.com<br>🤓 Currently BeCode Full Stack Web Developer Boot Camp<br>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)(https://leetcode.com/enkelan/)
 
 
 ## 🌐 Socials:
