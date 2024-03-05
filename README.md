@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Future Full-Stack Developer
 ---------------------------
-<p align="center">
+<p>
  🌍  I'm based in Belgium <br>
  ✉️  You can contact me <a href=mailto:eno_rami@ymail.com> here </a>
 </p>
-<div align="center">
+<div>
 <p style="background-color: crimson; color: #f1f1f1; font-weight: bold; font-size: 30px" >
       🛠️   Currently Learning
             Languages and Tools
@@ -21,25 +21,25 @@ Future Full-Stack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div> <br>
-<div align="center">
+<div>
 <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/enkelan?logo=github&style=for-the-badge&color=f97316&labelColor=171717" /></a>
 </div> <br>
-<div align="center">
+<div>
     <img src="https://komarev.com/ghpvc/?username=enkelan&style=flat-square&color=orange" alt=""/>
 </div> <br>
-<div align="center">
+<div>
       
 Socials <br>
 
-<p align="center"> <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/enkelan-rami-ba5a31222/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p> <a href="https://www.github.com/enkelan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/enkelan-rami-ba5a31222/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 </div>
 
 <div align="center">
     <img src="giphy.gif" width="400"/>
 </div>
 
-<div align="center">
+<div>
 
 
 
