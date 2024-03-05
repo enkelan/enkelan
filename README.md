@@ -1,4 +1,3 @@
-<div class="blue">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is (Eno) Enkelan Rami
 ==========================================================================================================================================
 
@@ -49,5 +48,4 @@ Socials <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enkelan&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enkelan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 </div>
