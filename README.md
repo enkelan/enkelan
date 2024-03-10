@@ -16,6 +16,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=enkelan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=enkelan&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
