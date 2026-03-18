@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">🌍 I'm based in Belgium<br>✉️ You can contact me eno_rami@ymail.com<br>🤓 Currently Internship in Pixel Drive</p>
+<p align="left">🌍 I'm based in Belgium<br>✉️ You can contact me eno_rami@ymail.com<br>
+
 
 ###
 
